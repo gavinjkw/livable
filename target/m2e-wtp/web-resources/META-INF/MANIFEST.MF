@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: gavinwilson
+Build-Jdk: 10.0.2
+Implementation-Title: livable
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.gavinwilson.livable
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/livable
+Created-By: Maven Integration for Eclipse
+
